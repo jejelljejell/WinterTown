@@ -1,6 +1,6 @@
 # WinterTown
  
-### Basic 2D Unity Game for collecting coins  
+### Basic 2D Unity Game which collects coins  
 <hr>
 
 #### Implementation
